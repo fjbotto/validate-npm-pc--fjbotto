@@ -12,6 +12,10 @@ describe("validMobileNo", () => {
   test("Invalid mobile number with more than 15 digits", () => {
     expect(validMobileNo("+23470646932123456")).toBe(false);
   });
+
+  test("Invalid mobile number with more than 17 digits", () => {
+    expect(validMobileNo("+234706469321234556")).toBe(false);
+  });
 });
 
 describe("validEmail", () => {
