@@ -1,8 +1,8 @@
 import { validMobileNo, validEmail, validSocial } from "../src/index";
 
 describe("validMobileNo", () => {
-  test("Valid mobile number with + sign and 15 digits", () => {
-    expect(validMobileNo("+234706469321234")).toBe(true);
+  test("Valid mobile number with + sign and 16 digits", () => {
+    expect(validMobileNo("+2347064693212341")).toBe(true);
   });
 
   test("Invalid mobile number without + sign", () => {
