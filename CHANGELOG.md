@@ -1,5 +1,11 @@
 # validate-npm-pc--fjbotto
 
+## 1.0.5
+
+### Patch Changes
+
+- acdd852: Adding an extra number in the test
+
 ## 1.0.4
 
 ### Patch Changes
