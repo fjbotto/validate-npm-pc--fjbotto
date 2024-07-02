@@ -1,5 +1,11 @@
 # validate-npm-pc--fjbotto
 
+## 1.0.8
+
+### Patch Changes
+
+- 760eec3: PR B
+
 ## 1.0.7
 
 ### Patch Changes
