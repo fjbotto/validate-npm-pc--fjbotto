@@ -1,6 +1,6 @@
 {
   "name": "validate-npm-pc--fjbotto",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A comprehensive library for validating user inputs including emails, mobile numbers, and social media links.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
