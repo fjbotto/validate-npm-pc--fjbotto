@@ -1,5 +1,12 @@
 # validate-npm-pc--fjbotto
 
+## 1.0.7
+
+### Patch Changes
+
+- bdb4232: Two PRs at same time. PR B.
+- 76125c6: Two PRs at same time. PR A.
+
 ## 1.0.6
 
 ### Patch Changes
