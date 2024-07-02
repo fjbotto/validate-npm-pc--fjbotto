@@ -1,5 +1,11 @@
 # validate-npm-pc--fjbotto
 
+## 1.0.6
+
+### Patch Changes
+
+- 1287156: Updating test removing one character
+
 ## 1.0.5
 
 ### Patch Changes
