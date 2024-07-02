@@ -1,5 +1,11 @@
 # validate-npm-pc--fjbotto
 
+## 1.0.4
+
+### Patch Changes
+
+- f772151: Updating readme with how to publish a new package version details
+
 ## 1.0.3
 
 ### Patch Changes
