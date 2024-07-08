@@ -6,7 +6,7 @@ describe("validMobileNo", () => {
   });
 
   test("Invalid mobile number without + sign", () => {
-    expect(validMobileNo("2347064a69321234")).toBe(false);
+    expect(validMobileNo("2347064a6932112234")).toBe(false);
   });
 
   test("Invalid mobile number with more than 15 digits", () => {
