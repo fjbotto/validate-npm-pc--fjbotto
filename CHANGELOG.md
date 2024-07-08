@@ -1,5 +1,12 @@
 # validate-npm-pc--fjbotto
 
+## 1.0.10
+
+### Patch Changes
+
+- b5b83a5: testing another change A
+- 79d91bc: I'm adding a new test case
+
 ## 1.0.9
 
 ### Patch Changes
