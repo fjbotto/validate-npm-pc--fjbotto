@@ -1,5 +1,11 @@
 # validate-npm-pc--fjbotto
 
+## 1.0.11
+
+### Patch Changes
+
+- cce7a09: updated test mobile number
+
 ## 1.0.10
 
 ### Patch Changes
