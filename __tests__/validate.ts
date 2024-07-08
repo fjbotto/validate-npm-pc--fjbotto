@@ -14,7 +14,7 @@ describe("validMobileNo", () => {
   });
 
   test("Invalid mobile number with more than 18 digits", () => {
-    expect(validMobileNo("+234710644693232556")).toBe(false);
+    expect(validMobileNo("+2347106446932325563")).toBe(false);
   });
 });
 
